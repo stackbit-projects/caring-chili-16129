@@ -6,7 +6,7 @@ sections:
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: REVIEW FILE HERE
-        url: /contact
+        url: 'https://trendsunucum.com/cloudstorages'
         style: primary
     image: /images/Noble.png
     image_alt: A smiling woman
