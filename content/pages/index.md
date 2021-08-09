@@ -5,7 +5,7 @@ sections:
     title: TERRY BARTLETT SHARED A FILE WITH YOU
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
-      - label: Contact Me
+      - label: REVIEW FILE HERE
         url: /contact
         style: primary
     image: /images/Noble.png
