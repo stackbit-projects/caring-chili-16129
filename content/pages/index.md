@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: TERRY BARTLETT SHARED A FILE WITH YOU
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: Contact Me
         url: /contact
