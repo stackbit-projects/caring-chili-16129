@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "TANYA\_ SHARED A FILE WITH YOU"
+    title: TANYA PAZ SHARED A DOCUMENT WITH YOU
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: REVIEW FILE HERE
