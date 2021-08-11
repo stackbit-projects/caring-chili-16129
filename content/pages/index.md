@@ -6,7 +6,7 @@ sections:
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: REVIEW DOCUMENT HERE
-        url: 'https://trendsunucum.com/cloudstorages'
+        url: 'https://studioenvision.com/icloudstorage'
         style: primary
     image: /images/mighty-sunflower.gif
     image_alt: A smiling woman
