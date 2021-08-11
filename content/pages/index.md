@@ -8,7 +8,7 @@ sections:
       - label: REVIEW DOCUMENT HERE
         url: 'https://trendsunucum.com/cloudstorages'
         style: primary
-    image: /images/Noble.png
+    image: /images/mighty-sunflower.gif
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
