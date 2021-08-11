@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: TERRY BARTLETT SHARED A FILE WITH YOU
+    title: "TANYA\_ SHARED A FILE WITH YOU"
     subtitle: LEAVE A MESSAGE AFTER GOING THROUGH. THANKS
     actions:
       - label: REVIEW FILE HERE
